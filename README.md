@@ -4,7 +4,7 @@
 
 Submitted by: **Natalia Miranda**
 
-Time spent: **8** hours spent in total
+Time spent: **9** hours spent in total
 
 ## User Stories
 
